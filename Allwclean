@@ -1,0 +1,4 @@
+#!/bin/sh
+
+wclean sdf
+wclean labelRegion
